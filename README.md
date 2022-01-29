@@ -1,2 +1,5 @@
-# TAMUHACK2022
-Team: Dance[-1] - TAMUHack 2022
+# COVIDTexasWEB
+Simple Web App that displays COVID-19 data in Texas using my COVIDTexas API.
+
+# Link
+https://covidtexasweb.web.app/
