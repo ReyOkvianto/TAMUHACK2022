@@ -1,11 +1,11 @@
 # TAMUHACK2022
-###Project Name: wait.
+### Project Name: wait.
 Team: Dance[-1] - TAMUHack 2022
 
-###American Airlines Challenge
+### American Airlines Challenge
 Developing a user-friendly application that encourages social connectivity during downtime of a flight experience.
 
-####Tech Stack
+#### Tech Stack
 -HTML
 -CSS
 -React.js
